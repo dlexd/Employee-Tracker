@@ -12,11 +12,14 @@
 
 ## Installation
 
-1. Run npm install in main directory. 2. Source the schema.sql file in the db folder.
+1. Run npm install in main directory. 
+2. Source the schema.sql file in the db folder.
 
 ## Usage
 
-1. Run node index.js in main directory. 2. Use arrow keys and select a prompt. 3. Answer any questions given
+1. Run node index.js in main directory. 
+2. Use arrow keys and select a prompt. 
+3. Answer any questions given
 
 ## License
 
